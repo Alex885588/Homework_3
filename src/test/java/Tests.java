@@ -2,7 +2,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Tests {
-    public RestaurantMenu rm;
+
     @Test
     public void addFoodTest(){
         RestaurantMenu rm=new RestaurantMenu();
